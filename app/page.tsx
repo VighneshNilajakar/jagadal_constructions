@@ -521,7 +521,5 @@ return ( <div className="min-h-screen flex flex-col selection:bg-amber-200 selec
     </div>
   </footer>
 </div>
-```
-
 );
 }
