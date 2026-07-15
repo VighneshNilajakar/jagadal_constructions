@@ -21,6 +21,7 @@ const nextConfig: NextConfig = {
     ],
   },
   output: 'export',
+  basePath: '/jagadal_constructions',
   transpilePackages: ['motion'],
   webpack: (config, {dev}) => {
     // HMR is disabled in AI Studio via DISABLE_HMR env var.
