@@ -1,0 +1,6 @@
+{
+  "name": "Jagadal Constructions",
+  "description": "Jagadal Constructions - Building Dreams, Constructing Trust. Premium plot and construction services in Belagavi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
